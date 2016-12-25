@@ -4,32 +4,47 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="14562468203643"
-    token="-3659400167624607996" >
+    timestamp="35537697075491"
+    token="-3659400167624607996"
+    verifier="R_CLASS_CHANGE" >
 
     <task
         name="javac"
-        duration="473" />
+        duration="1395" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="224" />
+        duration="665" />
     <task
         name="verifier"
-        duration="42" />
+        duration="269" />
 
+    <artifact
+        location="C:\my files\AndroidStudioProjects\MUKTI2017\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="C:\my files\AndroidStudioProjects\MUKTI2017\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
     <artifact
         location="C:\my files\AndroidStudioProjects\MUKTI2017\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
         type="DEX" />
 
-    <build timestamp="14432808915244" >
+    <build timestamp="35211902669467" >
         <artifact
             location="C:\my files\AndroidStudioProjects\MUKTI2017\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="14562468203643" >
+    <build
+        timestamp="35537697075491"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\my files\AndroidStudioProjects\MUKTI2017\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\my files\AndroidStudioProjects\MUKTI2017\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
         <artifact
             location="C:\my files\AndroidStudioProjects\MUKTI2017\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
             type="DEX" />

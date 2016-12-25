@@ -27,6 +27,12 @@
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_fullscreen"
             android:theme="@style/FullscreenTheme" />
+        <activity android:name="com.example.somesh1995.mukti2017.Online_events" />
+        <activity android:name="com.example.somesh1995.mukti2017.Offline_events" />
+        <activity android:name="com.example.somesh1995.mukti2017.Workshops" />
+        <activity android:name="com.example.somesh1995.mukti2017.Hackathon" />
+        <activity android:name="com.example.somesh1995.mukti2017.Contacts" />
+        <activity android:name="com.example.somesh1995.mukti2017.Sponsors" />
     </application>
 
 </manifest>

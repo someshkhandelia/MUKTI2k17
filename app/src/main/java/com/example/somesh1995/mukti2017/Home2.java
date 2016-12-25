@@ -9,11 +9,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ImageButton;
 
 
 public class Home2 extends Fragment{
 
-  //  Button workshopbutton;
+   ImageButton offline_image_button;
     public Home2() {
         // Required empty public constructor
     }
@@ -25,14 +26,14 @@ public class Home2 extends Fragment{
         View rootView = inflater.inflate(
                 R.layout.fragment_home2, container, false);//16.75,38.25,26.5
 
-       /* workshopbutton=(Button)rootView.findViewById(R.id.workshopbutton);
-        workshopbutton.setOnClickListener(new View.OnClickListener() {
+       offline_image_button=(ImageButton)rootView.findViewById(R.id.offline_image_button);
+        offline_image_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(getActivity(),WorkshopActivity.class);
+                Intent intent = new Intent(getActivity(),Offline_events.class);
                 startActivity(intent);
             }
-        });*/
+        });
 
         return rootView;
     }

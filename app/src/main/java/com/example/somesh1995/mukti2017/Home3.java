@@ -9,11 +9,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ImageButton;
 
 
 public class Home3 extends Fragment {
 
-    //Button muktibutton;
+    ImageButton workshops_image_button;
 
     public Home3() {
         // Required empty public constructor
@@ -26,14 +27,14 @@ public class Home3 extends Fragment {
         View rootView = inflater.inflate(
                 R.layout.fragment_home3, container, false);//16.75,38.25,26.5
 
-       /* muktibutton=(Button)rootView.findViewById(R.id.muktibutton);
-        muktibutton.setOnClickListener(new View.OnClickListener() {
+       workshops_image_button=(ImageButton)rootView.findViewById(R.id.workshops_image_button);
+        workshops_image_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(getActivity(),MuktiActivity.class);
+                Intent intent = new Intent(getActivity(),Workshops.class);
                 startActivity(intent);
             }
-        });*/
+        });
 
         return rootView;
     }
