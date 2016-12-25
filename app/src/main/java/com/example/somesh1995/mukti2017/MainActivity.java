@@ -5,6 +5,7 @@ import android.os.Handler;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+/*This is our splashscreen*/
 
 public class MainActivity extends AppCompatActivity {
 

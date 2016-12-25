@@ -11,7 +11,7 @@ import android.os.Bundle;
 
 public class ScreenSlidePagerActivity extends FragmentActivity {
 
-    private static final int NUM_PAGES = 4;
+    private static final int NUM_PAGES = 6;
 
 
     private ViewPager mPager;
@@ -58,6 +58,10 @@ public class ScreenSlidePagerActivity extends FragmentActivity {
                     return new Home3();
                 case 3 :
                     return new Home4();
+                case 4 :
+                    return new Home5();
+                case 5 :
+                    return new Home6();
 
 
             }

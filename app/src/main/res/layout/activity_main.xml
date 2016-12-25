@@ -7,32 +7,15 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.somesh1995.mukti2017.MainActivity"
-    android:background="@drawable/wizard">
+    tools:context="com.example.somesh1995.mukti2017.MainActivity">
 
 
     <TextView
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:id="@+id/mukti_title"
-        android:text="MUKTI2k17"
-        android:textStyle="bold"
-        android:layout_marginBottom="20dp"
-        android:gravity="center"
-        android:textSize="30sp"
-        android:textColor="#ffffff"/>
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_below="@+id/mukti_title"
-        android:id="@+id/mukti_tagline"
-        android:text="May the source be with you!"
-        android:gravity="center"
-        android:layout_marginTop="20dp"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        android:textColor="#ffffff" />
-
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Splashscreen"
+        android:id="@+id/textView2"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
