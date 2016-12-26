@@ -3,7 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.somesh1995.mukti2017.Online_events">
+    tools:context="com.example.somesh1995.mukti2017.Online_events"
+    android:background="@color/switch_thumb_disabled_material_light">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -20,7 +21,8 @@
             android:id="@+id/online_events_text"
             android:layout_gravity="center_horizontal|top"
             android:gravity="center"
-            android:textColor="#FFFFFF"/>
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"/>
 
     </LinearLayout>
 
@@ -40,99 +42,118 @@
             >
 
             <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
                 android:orientation="vertical"
                 android:id="@+id/onel1"
-                android:gravity="center">
-
-                <ImageButton
-                    android:layout_width="200dp"
-                    android:layout_height="200dp"
-                    android:id="@+id/onei1"
-                    android:src="@drawable/cc"
-                    android:scaleType="fitCenter"/>
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:id="@+id/onet1"
-                    android:layout_below="@+id/oei1"
-                    android:text="Event 1"
-                    android:gravity="center"
-                    android:textSize="20sp"
-                    android:textStyle="bold"/>
+                android:gravity="center"
+                android:layout_gravity="center">
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="#000000"
+                android:alpha="0.2">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Codecracker"
+                    android:gravity="center"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:textColor="#FFFFFF"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="250dp"
+                android:layout_height="250dp"
                 android:orientation="vertical"
                 android:id="@+id/onel2"
-                android:gravity="center">
+                android:gravity="center"
+                android:layout_gravity="center">
 
-                <ImageButton
-                    android:layout_width="200dp"
-                    android:layout_height="200dp"
-                    android:id="@+id/onei2"
-                    android:src="@drawable/fp"
-                    android:scaleType="fitCenter"/>
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:id="@+id/onet2"
-                    android:layout_below="@+id/oei1"
-                    android:text="Event 2"
-                    android:gravity="center"
-                    android:textSize="20sp"
-                    android:textStyle="bold"/>
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="#000000"
+                android:alpha="0.2">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Freepl"
+                    android:gravity="center"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:textColor="#FFFFFF"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="250dp"
+                android:layout_height="250dp"
                 android:orientation="vertical"
                 android:id="@+id/onel3"
-                android:gravity="center">
+                android:gravity="center"
+                android:layout_gravity="center">
 
-                <ImageButton
-                    android:layout_width="200dp"
-                    android:layout_height="200dp"
-                    android:id="@+id/onei3"
-                    android:src="@drawable/fx"
-                    android:scaleType="fitCenter"/>
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:id="@+id/onet3"
-                    android:layout_below="@+id/oei1"
-                    android:text="Event 3"
-                    android:gravity="center"
-                    android:textSize="20sp"
-                    android:textStyle="bold"/>
+
             </LinearLayout>
+
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:id="@+id/onel4"
-                android:gravity="center">
-
-                <ImageButton
-                    android:layout_width="200dp"
-                    android:layout_height="200dp"
-                    android:id="@+id/onei4"
-                    android:src="@drawable/cc"
-                    android:scaleType="fitCenter"/>
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="#000000"
+                android:alpha="0.2">
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/onet4"
-                    android:layout_below="@+id/oei1"
-                    android:text="Event 4"
+                    android:text="Freemex"
                     android:gravity="center"
-                    android:textSize="20sp"
-                    android:textStyle="bold"/>
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:textColor="#FFFFFF"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:orientation="vertical"
+                android:id="@+id/onel4"
+                android:gravity="center"
+                android:layout_gravity="center">
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="#000000"
+                android:alpha="0.2">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Online Treasure Hunt"
+                    android:gravity="center"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:textColor="#FFFFFF"/>
             </LinearLayout>
 
 

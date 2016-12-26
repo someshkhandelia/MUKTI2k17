@@ -8,10 +8,6 @@
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\drawable\\onl.jpg"
     },
     {
-        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wizard3.jpg",
-        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\drawable\\wizard3.jpg"
-    },
-    {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
     },
@@ -162,10 +158,6 @@
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc.jpg",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\drawable\\cc.jpg"
-    },
-    {
-        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wizard2.jpg",
-        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\drawable\\wizard2.jpg"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inc.jpg",
