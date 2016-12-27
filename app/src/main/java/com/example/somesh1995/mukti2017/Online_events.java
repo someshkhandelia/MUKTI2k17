@@ -129,6 +129,13 @@ public class Online_events extends Activity
 
     }
 
+    protected void onResume() {
+        super.onResume();
+        View decorView = getWindow().getDecorView();
+        int uiOptions = View.SYSTEM_UI_FLAG_FULLSCREEN;
+        decorView.setSystemUiVisibility(uiOptions);
+    }
+
 
 
 
@@ -153,7 +160,7 @@ public class Online_events extends Activity
             return;
         }
 
-        
+
 
         // Flip to the back.
 

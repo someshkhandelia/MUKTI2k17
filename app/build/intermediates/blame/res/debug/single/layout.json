@@ -4,24 +4,40 @@
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card2_front.xml"
     },
     {
-        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home1.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_home1.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card5_front.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card5_front.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card12_front.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card12_front.xml"
+    },
+    {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card12_back.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card12_back.xml"
+    },
+    {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card15_front.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card15_front.xml"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
@@ -32,12 +48,16 @@
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\activity_contacts.xml"
     },
     {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home6.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_home6.xml"
+    },
+    {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home2.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_home2.xml"
     },
     {
-        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home6.xml",
-        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_home6.xml"
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card7_back.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card7_back.xml"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_online_events.xml",
@@ -48,16 +68,28 @@
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media.xml"
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card18_front.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card18_front.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card16_back.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card16_back.xml"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_events.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\activity_offline_events.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card7_front.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card7_front.xml"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
@@ -66,6 +98,10 @@
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card1_back.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card1_back.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card11_back.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card11_back.xml"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
@@ -84,12 +120,28 @@
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card8_back.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card8_back.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card18_back.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card18_back.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card8_front.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card8_front.xml"
+    },
+    {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card1_front.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card1_front.xml"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sponsors.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\activity_sponsors.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card17_front.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card17_front.xml"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
@@ -102,6 +154,10 @@
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card15_back.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card15_back.xml"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
@@ -122,6 +178,22 @@
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card9_front.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card9_front.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card16_front.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card16_front.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card9_back.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card9_back.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card17_back.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card17_back.xml"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
@@ -148,12 +220,24 @@
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card3_front.xml"
     },
     {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card10_front.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card10_front.xml"
+    },
+    {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card14_back.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card14_back.xml"
+    },
+    {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card6_front.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card6_front.xml"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -166,6 +250,10 @@
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card5_back.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card5_back.xml"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -188,8 +276,16 @@
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card11_front.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card11_front.xml"
+    },
+    {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card4_front.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card4_front.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card14_front.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card14_front.xml"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
@@ -212,12 +308,24 @@
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card6_back.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card6_back.xml"
+    },
+    {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_workshops.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\activity_workshops.xml"
     },
     {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card13_back.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card13_back.xml"
+    },
+    {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_screen_slide_pager.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\activity_screen_slide_pager.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card13_front.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card13_front.xml"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
@@ -230,6 +338,10 @@
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card10_back.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\layout\\fragment_card10_back.xml"
     },
     {
         "merged": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",

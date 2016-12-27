@@ -4,35 +4,38 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="115911257951441"
-    token="-3659400167624607996" >
+    timestamp="198264132296090"
+    token="-3659400167624607996"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="795" />
+        duration="3748" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="2102" />
     <task
         name="instant-run-transform"
-        duration="772" />
+        duration="322" />
     <task
         name="verifier"
-        duration="217" />
+        duration="61" />
 
     <artifact
-        location="C:\my files\AndroidStudioProjects\MUKTI2017\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
-        type="DEX" />
+        location="C:\my files\AndroidStudioProjects\MUKTI2017\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
-    <build timestamp="115189403266873" >
+    <build timestamp="198009812651917" >
         <artifact
             location="C:\my files\AndroidStudioProjects\MUKTI2017\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="115911257951441" >
+    <build
+        timestamp="198264132296090"
+        verifier="COMPATIBLE" >
         <artifact
-            location="C:\my files\AndroidStudioProjects\MUKTI2017\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
-            type="DEX" />
+            location="C:\my files\AndroidStudioProjects\MUKTI2017\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
