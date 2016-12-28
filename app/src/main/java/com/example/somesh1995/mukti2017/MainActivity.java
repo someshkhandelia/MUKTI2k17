@@ -9,17 +9,30 @@ import android.view.View;
 /*This is our splashscreen*/
 
 public class MainActivity extends AppCompatActivity {
-
+    int k;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        View decorView = getWindow().getDecorView();
+
+
+       View decorView = getWindow().getDecorView();
         int uiOptions = View.SYSTEM_UI_FLAG_FULLSCREEN;
         decorView.setSystemUiVisibility(uiOptions);
-
         ActionBar actionBar=getSupportActionBar();
         actionBar.hide();
+      /*  uiOptions=View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN;
+        decorView.setSystemUiVisibility(uiOptions);*/
+
+        new Handler().postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                setContentView(R.layout.activity_main);
+
+
+            }
+        }, 1000);
+
+
 
         new Handler().postDelayed(new Runnable() {
             @Override
@@ -28,11 +41,12 @@ public class MainActivity extends AppCompatActivity {
                 Intent i=new Intent(MainActivity.this,ScreenSlidePagerActivity.class);
                 startActivity(i);
             }
-        }, 3000);
+        }, 5000);
     }
 
     protected void onResume() {
         super.onResume();
+
 
     }
 }

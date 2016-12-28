@@ -1,5 +1,6 @@
 package com.example.somesh1995.mukti2017;
 
+import android.os.Handler;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
@@ -39,6 +40,8 @@ public class ScreenSlidePagerActivity extends FragmentActivity {
         View decorView = getWindow().getDecorView();
         int uiOptions = View.SYSTEM_UI_FLAG_FULLSCREEN;
         decorView.setSystemUiVisibility(uiOptions);
+
+
     }
 
     @Override

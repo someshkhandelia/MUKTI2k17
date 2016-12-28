@@ -347,7 +347,14 @@
                     "endOffset": 2065
                 },
                 "from": {
-                    "file": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 45,
+                        "endOffset": 198
+                    }
                 }
             },
             {
@@ -2423,14 +2430,7 @@
                     "endOffset": 32305
                 },
                 "from": {
-                    "file": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 315,
-                        "endColumn": 69,
-                        "endOffset": 380
-                    }
+                    "file": "C:\\my files\\AndroidStudioProjects\\MUKTI2017\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {

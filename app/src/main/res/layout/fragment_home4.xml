@@ -56,7 +56,8 @@
                 <TextView style="?android:textAppearanceSmall"
                     android:textColor="#80ffffff"
                     android:textStyle="bold"
-                    android:text="Throughout the year, we organise workshops in the campus to promote the sense of Open Source software. We do not charge any fees for our workshops, as our main motto is to be free. As of now, we are organising Web Development workshops and Android App Development workshop on Thursday and Tuesday of every week.The Web Development workshops are focused on teaching both front end and back end web development, from scratch. The Android app development worshop,too, teaches from the very basics. Our team, highly cooperative and skilled, is present to help you out wherever you get stuck. With no other prerequisites, all you need is your fully charged laptop and an eager mind to learn."
+                    android:text="To enrich your technical skills and test your power of logic and problem solving, Mukti  2017 brings  you, “ Hackathon” ,an eight hour long event which will consist of tasks, that you need to solve within the  stipulated time in groups of maximum three people . You can use any technology or framework to complete the given tasks.
+ Internet connection for this event will be provided by GLUG, hence all you need to bring for this event is a fully charged laptop and your passion to conquer challenges. Refreshments will be provided by the club."
                     android:lineSpacingMultiplier="1.2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

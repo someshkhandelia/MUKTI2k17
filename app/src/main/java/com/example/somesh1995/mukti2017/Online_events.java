@@ -13,6 +13,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
@@ -38,6 +39,9 @@ public class Online_events extends Activity
     LinearLayout f3;
     LinearLayout f4;
 
+    Button b1;
+
+
     /**
      * Whether or not we're showing the back of the card (otherwise showing the front).
      */
@@ -50,6 +54,16 @@ public class Online_events extends Activity
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_online_events);
+
+
+        b1=(Button)findViewById(R.id.button1);
+        b1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(view.getContext(),Hackathon.class);
+                startActivity(intent);
+            }
+        });
 
         if (savedInstanceState == null) {
             // If there is no saved instance state, add a fragment representing the
@@ -99,7 +113,9 @@ public class Online_events extends Activity
         f1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
                 myfunc1();
+
             }
         });
 
